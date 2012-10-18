@@ -1,0 +1,1 @@
+This is a Phenny function to call rude British swears into the IRC channel on command. 
