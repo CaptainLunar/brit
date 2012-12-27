@@ -6,8 +6,7 @@ http://sites.google.com/site/captainlunarlabs/
 
 http://inamidst.com/phenny/
 """
-#This is a nano function to call random British swears
-#into the IRC channel on command. 
+#This is a nano function to call random British swears into the IRC channel on command. 
 
 import random
 
