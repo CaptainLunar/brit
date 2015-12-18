@@ -1,11 +1,10 @@
 """
 brit.py - Phenny Rude Module
-Copyright 2012, Captain Lunar 
+Copyright 2012, lunar
 Licensed under the Eiffel Forum License 2.
 http://inamidst.com/phenny/
-This is a nano function to call random British swears into an IRC channel phenny is located on command. 
+This is a nano function to call random British swears into an IRC channel.  
 """
-
 import random
 
 swears = ["Your mom's a slag faggot!", 
